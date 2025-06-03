@@ -1,0 +1,1274 @@
+
+@font-face {
+    font-family: Oliver;
+    src: url('Oliver.ttf');
+  }
+  
+  @font-face {
+    font-family: DMSans;
+    src: url('DMSans.ttf');
+  }
+  
+  @font-face {
+    font-family: ContentReg;
+    src: url('Content.ttf');
+  }
+
+ 
+.website-contact-us {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: center;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .website-contact-us .div {
+    background-color: #ffffff;
+    overflow: hidden;
+    width: 1440px;
+    height: 1961px;
+    position: relative;
+  }
+  
+  .website-contact-us .overlap {
+    position: absolute;
+    width: 1440px;
+    height: 664px;
+    top: 1297px;
+    left: 0;
+  }
+  
+  .website-contact-us .overlap-group {
+    position: absolute;
+    width: 1440px;
+    height: 657px;
+    top: 7px;
+    left: 0;
+  }
+  
+  .website-contact-us .UXRD-FP-presentation {
+    position: absolute;
+    width: 351px;
+    height: 391px;
+    top: 34px;
+    left: 1089px;
+  }
+  
+  .website-contact-us .img {
+    position: absolute;
+    width: 345px;
+    height: 410px;
+    top: 0;
+    left: 0;
+  }
+  
+  .website-contact-us .frame {
+    height: 341px;
+    top: 316px;
+    position: absolute;
+    width: 1440px;
+    left: 0;
+    background-color: #ff632e;
+    overflow: hidden;
+  }
+  
+  .website-contact-us .overlap-2 {
+    position: relative;
+    height: 848px;
+    background-color: #ff632e;
+  }
+  
+  .website-contact-us .muyen-logo {
+    position: absolute;
+    width: 106px;
+    height: 72px;
+    top: 54px;
+    left: 71px;
+  }
+  
+  .website-contact-us .group {
+    position: absolute;
+    width: 22px;
+    height: 22px;
+    top: 104px;
+    left: 230px;
+  }
+  
+  .website-contact-us .overlap-group-2 {
+    position: relative;
+    width: 18px;
+    height: 21px;
+    top: 2px;
+    left: 2px;
+  }
+  
+ 
+  
+  .website-contact-us .vector {
+    height: 21px;
+    top: 16px;
+    left: 0;
+    position: absolute;
+    width: 18px;
+  }
+  
+  .website-contact-us .text-wrapper {
+    width: 210px;
+    left: 230px;
+    position: absolute;
+    top: 53px;
+    font-family: Oliver;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 24px;
+    text-align: justify;
+    letter-spacing: -0.96px;
+    line-height: normal;
+  }
+  
+  .website-contact-us .ruko-jl-aristoteles {
+    position: absolute;
+    width: 440px;
+    top: 103px;
+    left: 263px;
+    font-family: Oliver;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 16px;
+    text-align: justify;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .website-contact-us .vector-2 {
+    position: absolute;
+    width: 18px;
+    height: 18px;
+    top: 184px;
+    left: 233px;
+  }
+  
+  .website-contact-us .text-wrapper-2 {
+    position: absolute;
+    width: 140px;
+    top: 184px;
+    left: 257px;
+    font-family: Oliver;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 20px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .website-contact-us .overlap-wrapper {
+    position: absolute;
+    width: 488px;
+    height: 18px;
+    top: 276px;
+    left: 71px;
+  }
+  
+  .website-contact-us .overlap-3 {
+    position: relative;
+    width: 494px;
+    height: 18px;
+    left: -2px;
+  }
+  
+  .website-contact-us .group-2 {
+    position: absolute;
+    width: 491px;
+    height: 18px;
+    top: 0;
+    left: 3px;
+  }
+  
+  .website-contact-us .p {
+    position: absolute;
+    width: 471px;
+    top: 1px;
+    left: 25px;
+    font-family: Oliver;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 16px;
+    text-align: justify;
+    letter-spacing: -0.64px;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .website-contact-us .text-wrapper-3 {
+    position: absolute;
+    width: 10px;
+    top: 20px;
+    left: 1px;
+    transform: rotate(-7.61deg);
+    font-family: Oliver;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 12px;
+    text-align: justify;
+    letter-spacing: -0.48px;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .website-contact-us .ellipse {
+    position: absolute;
+    width: 14px;
+    height: 14px;
+    top: 20px;
+    left: 0;
+    border-radius: 7px;
+    border: 1.5px solid;
+    border-color: #ffffff;
+  }
+  
+  .website-contact-us .customer-complaints {
+    width: 576px;
+    left: 798px;
+    white-space: nowrap;
+    position: absolute;
+    top: 53px;
+    font-family: Oliver;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 24px;
+    text-align: justify;
+    letter-spacing: -0.96px;
+    line-height: normal;
+  }
+  
+  .website-contact-us .directorate-general {
+    position: absolute;
+    width: 576px;
+    top: 103px;
+    left: 798px;
+    font-family: Oliver;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 16px;
+    text-align: justify;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .website-contact-us .span {
+    font-family: Oliver;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 16px;
+    letter-spacing: 0;
+  }
+  
+  .website-contact-us .text-wrapper-4 {
+    text-decoration: underline;
+  }
+  
+  .website-contact-us .group-3 {
+    position: absolute;
+    width: 337px;
+    height: 38px;
+    top: 266px;
+    left: 1037px;
+  }
+  
+  .website-contact-us .group-4 {
+    position: absolute;
+    width: 44px;
+    height: 44px;
+    top: 1px;
+    left: -4px;
+  }
+  
+  .website-contact-us .group-5 {
+    position: absolute;
+    width: 44px;
+    height: 44px;
+    top: 1px;
+    left: 56px;
+  }
+  
+  .website-contact-us .group-6 {
+    position: absolute;
+    width: 44px;
+    height: 45px;
+    top: 1px;
+    left: 237px;
+  }
+  
+  .website-contact-us .group-7 {
+    position: absolute;
+    width: 44px;
+    height: 44px;
+    top: 1px;
+    left: 177px;
+  }
+  
+  .website-contact-us .overlap-group-wrapper {
+    position: absolute;
+    width: 37px;
+    height: 37px;
+    top: 0;
+    left: 120px;
+  }
+  
+  .website-contact-us .div-wrapper {
+    position: relative;
+    width: 45px;
+    height: 45px;
+    left: -4px;
+    background-image: url(Images/Gojek2.png);
+    background-size: 100% 100%;
+  }
+  
+  .website-contact-us .group-wrapper {
+    position: relative;
+    width: 25px;
+    height: 25px;
+    top: 6px;
+    left: 10px;
+    border-radius: 20px;
+    overflow: hidden;
+  }
+  
+  
+  
+  .website-contact-us .group-8 {
+    position: absolute;
+    width: 25px;
+    height: 25px;
+    top: px;
+    left: 0.4px;
+  }
+  
+  .website-contact-us .group-9 {
+    position: absolute;
+    width: 44px;
+    height: 44px;
+    top: 1px;
+    left: 297px;
+  }
+  
+  .website-contact-us .recaptcha {
+    position: absolute;
+    width: 302px;
+    height: 76px;
+    top: 0;
+    left: 569px;
+    background-color: #f9f9f9;
+    border-radius: 3px;
+    border: 1px solid;
+    border-color: #d3d3d3;
+    box-shadow: 0px 0px 4px 1px #00000014;
+  }
+  
+  .website-contact-us .re-CAPTCHA {
+    position: absolute;
+    width: 66px;
+    height: 62px;
+    top: 6px;
+    left: 228px;
+  }
+  
+  .website-contact-us .robot {
+    position: absolute;
+    width: 130px;
+    height: 28px;
+    top: 22px;
+    left: 12px;
+  }
+  
+  .website-contact-us .im-not-a-robot {
+    position: absolute;
+    width: 88px;
+    height: 11px;
+    top: 8px;
+    left: 41px;
+  }
+  
+  .website-contact-us .checkbox-wrapper {
+    position: absolute;
+    width: 28px;
+    height: 28px;
+    top: 0;
+    left: 0;
+    background-image: url('Images/CheckboxStroke.png');
+    background-size: 100% 100%;
+    cursor: pointer;
+    z-index: 1;
+  }
+  
+  .website-contact-us .checkbox {
+    position: relative;
+    width: 24px;
+    height: 24px;
+    top: 2px;
+    left: 2px;
+    background-color: #ffffff;
+    transition: background-color 0.3s ease;
+  }
+  
+  .website-contact-us .checkbox::after {
+    content: '';
+    position: absolute;
+    width: 6px;
+    height: 12px;
+    top: 3px;
+    left: 8px;
+    border: solid #34a853;
+    border-width: 0 2px 2px 0;
+    transform: scale(0) rotate(45deg);
+    opacity: 0;
+    transition: all 0.3s ease;
+  }
+  
+  .website-contact-us .checkbox-wrapper.checked .checkbox {
+    background-color: #e6f4ea; /* Light green for feedback */
+  }
+  
+  .website-contact-us .checkbox-wrapper.checked .checkbox::after {
+    transform: scale(1) rotate(45deg);
+    opacity: 1;
+  }
+  
+  
+  .website-contact-us .button-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    height: 40%; 
+    width: 100%;
+    position: relative;
+  }
+  
+  .website-contact-us .button {
+    all: unset;
+    box-sizing: border-box;
+    display: inline-flex;
+    align-items: center;
+    gap: 4px;
+    padding: 16px 24px;
+    position: relative;
+    background-color: #ffdcd1;
+    border-radius: 28px;
+    overflow: hidden;
+    cursor: pointer;
+  }
+  
+  
+  .website-contact-us .rectangle-2 {
+    position: absolute;
+    width: 1px;
+    height: 200px;
+    top: 0;
+    left: 68px;
+    background-color: #f0f0f0;
+    border-radius: 40px;
+    opacity: 0;
+  }
+  
+  .website-contact-us .continue {
+    font-family: DMSans, sans-serif;
+    font-weight: 600;
+    color: #ff642e;
+    font-size: 18px;
+    line-height: 24px;
+    white-space: nowrap;
+  }
+
+  
+  .website-contact-us .right {
+    width: 20px;
+    height: 20px;
+  }
+  
+  .website-contact-us .screenshot {
+    position: absolute;
+    width: 1017px;
+    height: 869px;
+    top: -3488px;
+    left: -1845px;
+    object-fit: cover;
+  }
+  
+  .website-contact-us .overlap-4 {
+    position: absolute;
+    width: 1440px;
+    height: 1101px;
+    top: 143px;
+    left: 0;
+  }
+  
+  .website-contact-us .UXRD-FP-presentation-2 {
+    position: absolute;
+    width: 313px;
+    height: 445px;
+    top: 354px;
+    left: 1127px;
+  }
+  
+  .website-contact-us .UXRD-FP-presentation-3 {
+    position: absolute;
+    width: 371px;
+    height: 563px;
+    top: 0;
+    left: 0;
+  }
+  
+  .website-contact-us .group-10 {
+    position: absolute;
+    width: 38px;
+    height: 38px;
+    top: 32px;
+    left: 41px;
+  }
+  
+  .website-contact-us .arrow-wrapper {
+    position: relative;
+    height: 38px;
+    background-color: #ff632e;
+    border-radius: 19px;
+  }
+  
+  .website-contact-us .arrow {
+    position: absolute;
+    width: 8px;
+    height: 15px;
+    top: 12px;
+    left: 12px;
+  }
+  
+  .website-contact-us .text-wrapper-5 {
+    position: absolute;
+    top: 38px;
+    left: 94px;
+    font-family: Oliver;
+    font-weight: 400;
+    color: #838383;
+    font-size: 26px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .website-contact-us .group-11 {
+    position: absolute;
+    width: 914px;
+    height: 356px;
+    top: 745px;
+    left: 268px;
+  }
+  
+  .website-contact-us .overlap-5 {
+    position: absolute;
+    width: 347px;
+    height: 100px;
+    top: 256px;
+    left: 2px;
+  }
+  
+  .website-contact-us .text-wrapper-6 {
+    width: 171px;
+    top: 0;
+    left: 0;
+    font-family: ContentReg;
+    color: #df742f;
+    font-size: 20px;
+    letter-spacing: -0.80px;
+    position: absolute;
+    font-weight: 400;
+    line-height: normal;
+  }
+  
+  .website-contact-us .group-12 {
+    position: absolute;
+    width: 347px;
+    height: 56px;
+    top: 44px;
+    left: 0;
+  }
+  
+  .website-contact-us .example-gmail-com-wrapper {
+    position: relative;
+    width: 351px;
+    height: 60px;
+    top: -2px;
+    left: 0px;
+    font-family: ContentReg;
+    background-color: #fdf0ec;
+    border-radius: 26px;
+    border: 2px solid;
+    border-color: #df742f;
+    padding: 0 11px; 
+  }
+  
+  .website-contact-us .Put-Message {
+    position: absolute;
+    width: 371px;
+    height: 315px;
+    top: -2px;
+    left: -1px;
+    font-family: ContentReg;
+    background-color: #fdf0ec;
+    border-radius: 26px;
+    border: 2px solid;
+    border-color: #df742f;
+    padding: 20px 15px 15px 15px;
+  }
+
+  .website-contact-us .text-wrapper-7 {
+    position: absolute;
+    width: 171px;
+    top: 0;
+    left: 513px;
+    font-family: ContentReg;
+    font-weight: 400;
+    color: #df742f;
+    font-size: 20px;
+    letter-spacing: -0.80px;
+    line-height: normal;
+  }
+  
+  .website-contact-us .overlap-6 {
+    position: absolute;
+    width: 391px;
+    height: 310px;
+    top: 46px;
+    left: 513px;
+  }
+  
+  .website-contact-us .group-13 {
+    position: absolute;
+    width: 391px;
+    height: 310px;
+    top: 0;
+    left: 0;
+  }
+  
+  .website-contact-us .rectangle-3 {
+    position: relative;
+    width: 395px;
+    height: 314px;
+    top: -2px;
+    left: -2px;
+    background-color: #fdf0ec;
+    border-radius: 26px;
+    border: 2px solid;
+    border-color: #df742f;
+  }
+  
+  .website-contact-us .text-wrapper-8 {
+    position: absolute;
+    width: 339px;
+    top: 9px;
+    left: 26px;
+    font-family: ContentReg;
+    font-weight: 400;
+    color: #df742f;
+    font-size: 19px;
+    letter-spacing: -0.76px;
+    line-height: normal;
+  }
+  
+  .website-contact-us .overlap-7 {
+    position: absolute;
+    width: 351px;
+    height: 103px;
+    top: 0;
+    left: -2px;
+  }
+  
+  .website-contact-us .text-wrapper-9 {
+    position: absolute;
+    width: 171px;
+    top: 0;
+    left: 2px;
+    font-family: ContentReg;
+    font-weight: 400;
+    color: #df742f;
+    font-size: 20px;
+    letter-spacing: -0.80px;
+    line-height: normal;
+  }
+  
+  .website-contact-us .rectangle-4 {
+    position: absolute;
+    width: 351px;
+    height: 60px;
+    top: 43px;
+    left: 0;
+    background-color: #fdf0ec;
+    border-radius: 26px;
+    border: 2px solid;
+    border-color: #df742f;
+  }
+  
+  .website-contact-us .overlap-8 {
+    position: absolute;
+    width: 351px;
+    height: 102px;
+    top: 128px;
+    left: -2px;
+  }
+  
+  .website-contact-us .rectangle-5 {
+    position: absolute;
+    width: 351px;
+    height: 60px;
+    top: 42px;
+    left: 0;
+    background-color: #fdf0ec;
+    border-radius: 26px;
+    border: 2px solid;
+    border-color: #df742f;
+  }
+  
+  .website-contact-us .text-wrapper-10 {
+    position: absolute;
+    width: 171px;
+    top: 0;
+    left: 4px;
+    font-family: ContentReg;
+    font-weight: 400;
+    color: #df742f;
+    font-size: 20px;
+    letter-spacing: -0.80px;
+    line-height: normal;
+  }
+  
+  .website-contact-us .group-14 {
+    position: absolute;
+    width: 914px;
+    height: 509px;
+    top: 183px;
+    left: 268px;
+  }
+
+  
+  .website-contact-us .overlap-9 {
+    position: relative;
+    width: 904px;
+    height: 509px;
+    background-image: url(Images/Background.png);
+    background-size: cover;
+    background-position: 50% 50%;
+  }
+
+  body.blur {
+    filter: blur(6px);
+    transition: filter 0.3s ease;
+  }
+
+  .blur-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    backdrop-filter: blur(6px);
+    z-index: 1; 
+    display: none;
+  }
+  
+  .popup-image {
+    display: none;
+    position: absolute;
+    top: 56%;
+    left: 50%;
+    width: 910px;
+    height: 580px;
+    transform: translate(-50%, -50%);
+    border-radius: 26px;
+    background-image: url(Images/LoadingPage.png);
+    background-size: cover;
+    background-position: 50% 50%;
+    z-index: 2;
+  }
+
+ 
+/* Animation */
+@keyframes popIn {
+    0% {
+      transform: scale(0.5);
+      opacity: 0;
+    }
+    100% {
+      transform: scale(1);
+      opacity: 1;
+    }
+  }
+  
+  /* Common Styles */
+  #bean-loading,
+  #bean2-loading,
+  #bean3-loading,
+  #bean4-loading,
+  #bean5-loading,
+  #bean6-loading {
+    display: none;
+    position: absolute;
+    width: 100px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    z-index: 3;
+    opacity: 0;
+    animation: popIn 0.4s ease-out forwards;
+  }
+  
+  /* Specific Styles and Staggered Delays */
+  #bean-loading {
+    top: 340px;
+    left: 34%;
+    height: 100px;
+    background-image: url('Images/bean.png');
+    animation-delay: 0s;
+  }
+  
+  #bean2-loading {
+    top: 335px;
+    left: 44%;
+    height: 120px;
+    background-image: url('Images/bean2.png');
+    animation-delay: 0.4s;
+  }
+  
+  #bean3-loading {
+    top: 340px;
+    left: 54%;
+    height: 100px;
+    background-image: url('Images/bean.png');
+    animation-delay: 0.8s;
+  }
+  
+  #bean4-loading {
+    top: 335px;
+    left: 64%;
+    height: 120px;
+    background-image: url('Images/bean2.png');
+    animation-delay: 1.2s;
+  }
+  
+  #bean5-loading {
+    top: 340px;
+    left: 74%;
+    height: 100px;
+    background-image: url('Images/bean.png');
+    animation-delay: 1.6s;
+  }
+  
+  #bean6-loading {
+    top: 335px;
+    left: 84%;
+    height: 120px;
+    background-image: url('Images/bean2.png');
+    animation-delay: 2s;
+  }
+
+  #thankyou-popup {
+    display: none;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 904px;
+    height: 520px;
+    border-radius: 26px;
+    transform: translate(-50%, -50%);
+    background-image: url('Images/Thankyou.png');
+    background-size: cover;
+    background-position: 50% 50%;
+    z-index: 2;
+  }
+
+/* Centered Button Inside Thank You */
+.continue-wrapper {
+    position: absolute;
+    bottom: -330px;
+    left: 50%;
+    transform: translateX(-50%);
+    display: flex;
+    justify-content: center;
+  }
+  
+  .continue-button {
+    all: unset;
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    padding: 16px 24px;
+    background-color: #ffdcd1;
+    border-radius: 28px;
+    cursor: pointer;
+    position: relative;
+  }
+  
+  .continue-button .rectangle-2 {
+    position: absolute;
+    width: 1px;
+    height: 200px;
+    top: 0;
+    left: 68px;
+    background-color: #f0f0f0;
+    border-radius: 40px;
+    opacity: 0;
+  }
+  
+  .continue-button .continue {
+    font-family: DMSans, sans-serif;
+    font-weight: 600;
+    color: #ff642e;
+    font-size: 18px;
+    line-height: 24px;
+    white-space: nowrap;
+  }
+  
+  .continue-button .right {
+    width: 20px;
+    height: 20px;
+  }
+
+
+  .website-contact-us .img-2 {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    top: 356px;
+    left: 29px;
+  }
+  
+  .website-contact-us .vector-3 {
+    height: 18px;
+    top: 315px;
+    left: 33px;
+    position: absolute;
+    width: 18px;
+  }
+  
+  .website-contact-us .group-15 {
+    position: absolute;
+    width: 446px;
+    height: 132px;
+    top: 188px;
+    left: 393px;
+  }
+  
+  .website-contact-us .text-wrapper-11 {
+    position: absolute;
+    top: 0;
+    left: 57px;
+    font-family: Oliver;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 60px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .website-contact-us .any-inquiries-or {
+    position: absolute;
+    width: 442px;
+    top: 82px;
+    left: 0;
+    font-family: Oliver;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 20px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .website-contact-us .text-wrapper-12 {
+    position: absolute;
+    width: 188px;
+    top: 362px;
+    left: 65px;
+    font-family: Oliver;
+    color: #ffffff;
+    font-size: 10px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .website-contact-us .text-wrapper-13 {
+    width: 150px;
+    top: 316px;
+    left: 50px;
+    font-family: Oliver;
+    color: #ffffff;
+    font-size: 10px;
+    text-align: center;
+    letter-spacing: 0;
+    position: absolute;
+    line-height: normal;
+  }
+  
+  .website-contact-us .contact-information {
+    position: absolute;
+    width: 100px;
+    top: 45px;
+    left: 29px;
+    font-family: Oliver;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 28px;
+    text-align: justify;
+    letter-spacing: -1.12px;
+    line-height: normal;
+  }
+  
+  .website-contact-us .overlap-group-3 {
+    position: absolute;
+    width: 307px;
+    height: 68px;
+    top: 402px;
+    left: 16px;
+    background-color: #ff642e;
+  }
+  
+  .website-contact-us .overlap-10 {
+    position: absolute;
+    width: 26px;
+    height: 35px;
+    top: 9px;
+    left: 10px;
+  }
+  
+  .website-contact-us .base {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    top: 0px;
+    left: 5px;
+  }
+  
+  .website-contact-us .rectangle-6 {
+    position: absolute;
+    width: 3px;
+    height: 3px;
+    top: 7px;
+    left: 16px;
+    border: 3px solid;
+    border-color: #ffffff;
+  }
+  
+  .website-contact-us .vector-4 {
+    position: absolute;
+    width: 18px;
+    height: 21px;
+    top: 0;
+    left: 8px;
+  }
+  
+  .website-contact-us .ruko-jl-aristoteles-2 {
+    position: absolute;
+    width: 250px;
+    top: -15px;
+    left: 51px;
+    font-family: Oliver; 
+    color: #ffffff;
+    font-size: 9px;
+    text-align: justify;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .website-contact-us .text-wrapper-14 {
+    position: absolute;
+    width: 260px;
+    top: 130px;
+    left: 29px;
+    font-family: ContentReg;
+    color: #ffffff;
+    font-size: 14px;
+    text-align: justify;
+    letter-spacing: -0.56px;
+    line-height: 20px;
+  }
+  
+  .website-contact-us .name-default {
+    position: relative;
+    width: 351px;
+    height: 60px;
+    top: 788px;
+    left: 266px;
+    font-family: ContentReg;
+    
+    background-color: #fdf0ec;
+    border-radius: 26px;
+    border: 2px solid;
+    border-color: #df742f;
+    padding: 0 13px; 
+  }
+  
+  .website-contact-us .name-default-2 {
+    position: relative;
+    width: 351px;
+    height: 60px;
+    top: 915px;
+    left: -120px;
+    font-family: ContentReg;
+    background-color: #fdf0ec;
+    border-radius: 26px;
+    border: 2px solid;
+    border-color: #df742f;
+    padding: 0 13px; 
+  }
+  
+
+  .website-contact-us .example-gmail-com-2 {
+    position: absolute;
+    width: 174px;
+    height: 19px;
+    top: 936px;
+    left: 284px;
+  }
+  
+  .website-contact-us .overlap-11 {
+    position: absolute;
+    width: 1440px;
+    height: 130px;
+    top: 0;
+    left: 0;
+  }
+  
+  .website-contact-us .rectangle-wrapper {
+    height: 130px;
+    top: 0;
+    width: 1440px;
+    left: 0;
+    background-color: #ff632e;
+    overflow: hidden;
+  }
+  
+  .website-contact-us .rectangle-7 {
+    height: 848px;
+    background-color: #ff632e;
+  }
+  
+  .website-contact-us .muyen-logo-2 {
+    position: absolute;
+    width: 106px;
+    height: 72px;
+    top: 29px;
+    left: 41px;
+  }
+  
+  .website-contact-us .download-app {
+    position: absolute;
+    width: 173px;
+    height: 32px;
+    top: 53px;
+    left: 1206px;
+  }
+  
+  .website-contact-us .text-wrapper-15 {
+    position: absolute;
+    top: -1px;
+    left: -19px;
+    font-family: Oliver;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 26px;
+    letter-spacing: 0;
+    line-height: normal;
+    text-transform: uppercase;
+    transition: all 0.3s ease;
+  }
+
+   /* Hover state */
+   .home:hover .text-wrapper-15 {
+    color: black;
+    font-weight: 700;
+    text-shadow:
+      -1px -1px 0 white,
+       1px -1px 0 white,
+      -1px  1px 0 white,
+       1px  1px 0 white;
+  }
+
+  .contact-us:hover .text-wrapper-15 {
+    color: black;
+    font-weight: 700;
+    text-shadow:
+      -1px -1px 0 white,
+       1px -1px 0 white,
+      -1px  1px 0 white,
+       1px  1px 0 white;
+  }
+
+  .shop:hover .text-wrapper-15 {
+    color: black;
+    font-weight: 700;
+    text-shadow:
+      -1px -1px 0 white,
+       1px -1px 0 white,
+      -1px  1px 0 white,
+       1px  1px 0 white;
+  }
+  
+  .gallery:hover .text-wrapper-15 {
+    color: black;
+    font-weight: 700;
+    text-shadow:
+      -1px -1px 0 white,
+       1px -1px 0 white,
+      -1px  1px 0 white,
+       1px  1px 0 white;
+  }
+
+  .download-app:hover .text-wrapper-15 {
+    color: black;
+    font-weight: 700;
+    text-shadow:
+      -1px -1px 0 white,
+       1px -1px 0 white,
+      -1px  1px 0 white,
+       1px  1px 0 white;
+  }
+  
+  .website-contact-us .gallery {
+    position: absolute;
+    width: 112px;
+    height: 37px;
+    top: 51px;
+    left: 1036px;
+  }
+  
+  .website-contact-us .shop {
+    position: absolute;
+    width: 62px;
+    height: 37px;
+    top: 51px;
+    left: 680px;
+  }
+  
+  .website-contact-us .contact-us {
+    position: absolute;
+    width: 165px;
+    height: 37px;
+    top: 51px;
+    left: 819px;
+  }
+  
+  .website-contact-us .home {
+    position: absolute;
+    width: 62px;
+    height: 32px;
+    top: 53px;
+    left: 541px;
+  }
+  
+  .website-contact-us .image {
+    position: fixed;
+    width: 62px;
+    height: 62px;
+    top: 733px;
+    left: calc((100vw - 1440px) / 2 + 1361px);
+    object-fit: cover;
+  }
+  

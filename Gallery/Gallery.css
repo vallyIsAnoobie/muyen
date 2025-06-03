@@ -1,0 +1,848 @@
+ @font-face {
+    font-family: Karla;
+    src: url('Karla.ttf');
+  }
+  
+  @font-face {
+    font-family: Oliver;
+    src: url('Oliver.ttf');
+  }
+  
+  @font-face {
+    font-family: GabiSans;
+    src: url('gabi_sans_irregular.ttf');
+  }
+
+
+
+.website-gallery {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .website-gallery .div {
+    background-color: #ffffff;
+    overflow: hidden;
+    width: 1440px;
+    height: 2902px;
+    position: relative;
+  }
+  
+  .website-gallery .group {
+    position: absolute;
+    width: 361px;
+    height: 105px;
+    top: 254px;
+    left: 542px;
+  }
+  
+  .website-gallery .overlap-group {
+    position: relative;
+    width: 357px;
+    height: 105px;
+  }
+  
+  .website-gallery .muyencoffee {
+    position: absolute;
+    width: 500px;
+    top: -80px;
+    left: 0;
+    font-family: Karla;
+    font-weight: 400;
+    color: #ff632e;
+    font-size: 75px;
+    letter-spacing: -15.75px;
+    line-height: normal;
+  }
+  
+  .website-gallery .text-wrapper {
+    font-weight: 700;
+    letter-spacing: -7.31px;
+  }
+  
+  .website-gallery .span {
+    font-family: Karla;
+    letter-spacing: -7.31px;
+  }
+  
+  .website-gallery .text-wrapper-2 {
+    position: absolute;
+    width: 152px;
+    top: 63px;
+    left: 127px;
+    font-family: Karla;
+    font-weight: 400;
+    color: #ff632e;
+    font-size: 35px;
+    letter-spacing: -4.55px;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .website-gallery .overlap {
+    position: absolute;
+    width: 1440px;
+    height: 2515px;
+    top: 387px;
+    left: 0;
+  }
+  
+  .website-gallery .UXRD-FP-presentation {
+    position: absolute;
+    width: 411px;
+    height: 519px;
+    top: 393px;
+    left: 0;
+  }
+  
+  .website-gallery .img {
+    position: absolute;
+    width: 419px;
+    height: 451px;
+    top: 461px;
+    left: 1021px;
+  }
+  
+  .website-gallery .UXRD-FP-presentation-2 {
+    position: absolute;
+    width: 441px;
+    height: 610px;
+    top: 1785px;
+    left: 0;
+  }
+  
+  .website-gallery .UXRD-FP-presentation-3 {
+    position: absolute;
+    width: 414px;
+    height: 654px;
+    top: 1039px;
+    left: 0;
+  }
+  
+  /* Carousel Animation */
+  .website-gallery .auto-scroll-image {
+    position: absolute;
+    width: 1440px;
+    height: 461px;
+    top: 0;
+    left: 0;
+    background-color: #ffffff;
+    overflow: hidden;
+    margin: 0 auto;
+  }
+  
+  .website-gallery .frame-2 {
+    display: flex;
+    width: max-content;
+    animation: scroll-left 20s linear infinite;
+  }
+  
+  .website-gallery .frame-3 {
+    display: flex;
+    gap: 20px; 
+    flex-shrink: 0;
+  }
+  
+  .website-gallery .frame-3 img {
+    height: 461px;
+    width: 395px;
+    object-fit: cover;
+    flex-shrink: 0;
+  }
+  
+  @keyframes scroll-left {
+    0% {
+      transform: translateX(0);
+    }
+    100% {
+      transform: translateX(-50%);
+    }
+  }
+
+  .website-gallery .rectangle {
+    position: relative;
+    width: 395px;
+    height: 461px;
+    object-fit: cover;
+  }
+  
+  .website-gallery .IMG {
+    position: relative;
+    width: 375px;
+    height: 461px;
+    object-fit: cover;
+  }
+  
+  .website-gallery .IMG-2 {
+    position: relative;
+    width: 368px;
+    height: 461px;
+  }
+  
+  .website-gallery .IMG-3 {
+    position: relative;
+    width: 254px;
+    height: 461px;
+    object-fit: cover;
+  }
+  
+  .website-gallery .IMG-4 {
+    position: relative;
+    width: 368px;
+    height: 461px;
+    margin-top: -387.00px;
+  }
+  
+  .website-gallery .rectangle-2 {
+    position: relative;
+    width: 395px;
+    height: 461px;
+    margin-top: -387.00px;
+    margin-left: -1991.00px;
+    object-fit: cover;
+  }
+  
+  .website-gallery .IMG-5 {
+    position: relative;
+    width: 375px;
+    height: 461px;
+    margin-top: -387.00px;
+    margin-left: -1580.00px;
+    object-fit: cover;
+  }
+  
+  .website-gallery .IMG-6 {
+    margin-top: -387.00px;
+    margin-left: -1189.00px;
+    position: relative;
+    width: 368px;
+    height: 461px;
+  }
+  
+  .website-gallery .IMG-7 {
+    position: relative;
+    width: 405px;
+    height: 461px;
+    margin-top: -387.00px;
+    margin-left: -805.00px;
+    object-fit: cover;
+  }
+  
+  .website-gallery .IMG-8 {
+    margin-top: -387.00px;
+    margin-left: -384.00px;
+    position: relative;
+    width: 368px;
+    height: 461px;
+  }
+  
+  .website-gallery .UXRD-FP-presentation-4 {
+    position: absolute;
+    width: 381px;
+    height: 445px;
+    top: 1854px;
+    left: 1059px;
+  }
+  
+  .website-gallery .IMG-9 {
+    position: absolute;
+    width: 563px;
+    height: 671px;
+    top: 1410px;
+    left: 442px;
+  }
+  
+  .website-gallery .UXRD-FP-presentation-5 {
+    position: absolute;
+    width: 520px;
+    height: 519px;
+    top: 1024px;
+    left: 690px;
+  }
+  
+  .website-gallery .photos {
+    position: absolute;
+    width: 935px;
+    height: 587px;
+    top: 644px;
+    left: 254px;
+  }
+  
+  .website-gallery .IMG-10 {
+    position: absolute;
+    width: 247px;
+    height: 284px;
+    top: 303px;
+    left: 0;
+  }
+  
+  .website-gallery .IMG-11 {
+    position: absolute;
+    width: 255px;
+    height: 293px;
+    top: 0;
+    left: 678px;
+  }
+  
+  .website-gallery .IMG-12 {
+    position: absolute;
+    width: 669px;
+    height: 293px;
+    top: 0;
+    left: 0;
+  }
+  
+  .website-gallery .element-years-of-brewing {
+    position: absolute;
+    width: 178px;
+    top: 258px;
+    left: 254px;
+    font-family: GabiSans;
+    font-weight: 400;
+    color: #1a1a1a;
+    font-size: 40px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 60px;
+  }
+  
+  .website-gallery .IMG-13 {
+    position: absolute;
+    width: 491px;
+    height: 284px;
+    top: 303px;
+    left: 442px;
+  }
+  
+  .website-gallery .whatsapp-image {
+    height: 456px;
+    top: 1602px;
+    left: 100px;
+    position: absolute;
+    width: 414px;
+  }
+  
+  .website-gallery .whatsapp-image-2 {
+    height: 467px;
+    top: 1360px;
+    left: 910px;
+    object-fit: cover;
+    position: absolute;
+    width: 414px;
+  }
+  
+  .website-gallery .overlap-wrapper {
+    position: absolute;
+    width: 1440px;
+    height: 335px;
+    top: 2180px;
+    left: 0;
+    background-color: #ff632e;
+    overflow: hidden;
+  }
+  
+  .website-gallery .overlap-2 {
+    position: relative;
+    height: 848px;
+    background-color: #ff632e;
+  }
+  
+  .website-gallery .muyen-logo {
+    position: absolute;
+    width: 106px;
+    height: 71px;
+    top: 53px;
+    left: 71px;
+  }
+  
+  .website-gallery .overlap-group-wrapper {
+    position: absolute;
+    width: 22px;
+    height: 22px;
+    top: 104px;
+    left: 230px;
+  }
+  
+  .website-gallery .overlap-group-2 {
+    position: relative;
+    width: 18px;
+    height: 21px;
+    top: 2px;
+    left: 2px;
+  }
+  
+  .website-gallery .rectangle-3 {
+    position: absolute;
+    width: 3px;
+    height: 3px;
+    top: 4px;
+    left: 7px;
+    border: 3px solid;
+    border-color: #ffffff;
+  }
+  
+  .website-gallery .vector {
+    position: absolute;
+    width: 18px;
+    height: 21px;
+    top: 12px;
+    left: 0;
+  }
+  
+  .website-gallery .text-wrapper-3 {
+    width: 191px;
+    left: 230px;
+    position: absolute;
+    top: 52px;
+    font-family: Oliver;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 24px;
+    text-align: justify;
+    letter-spacing: -0.96px;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .website-gallery .ruko-jl-aristoteles {
+    position: absolute;
+    width: 450px;
+    top: 102px;
+    left: 263px;
+    font-family: Oliver;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 16px;
+    text-align: justify;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .website-gallery .vector-2 {
+    position: absolute;
+    width: 18px;
+    height: 18px;
+    top: 185px;
+    left: 233px;
+  }
+  
+  .website-gallery .text-wrapper-4 {
+    position: absolute;
+    width: 150px;
+    top: 185px;
+    left: 246px;
+    font-family: Oliver;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 18px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .website-gallery .overlap-3 {
+    position: absolute;
+    width: 1303px;
+    height: 38px;
+    top: 266px;
+    left: 71px;
+  }
+  
+  .website-gallery .div-wrapper {
+    position: absolute;
+    width: 488px;
+    height: 22px;
+    top: 5px;
+    left: 0;
+  }
+  
+  .website-gallery .overlap-4 {
+    position: relative;
+    width: 494px;
+    height: 23px;
+    left: -2px;
+  }
+  
+  .website-gallery .group-2 {
+    position: absolute;
+    width: 491px;
+    height: 18px;
+    top: 0;
+    left: 3px;
+  }
+  
+  .website-gallery .p {
+    position: absolute;
+    width: 471px;
+    top: 0;
+    left: 26px;
+    font-family: Oliver;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 16px;
+    text-align: justify;
+    letter-spacing: -0.64px;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .website-gallery .text-wrapper-5 {
+    position: absolute;
+    width: 10px;
+    top: 19px;
+    left: 1px;
+    transform: rotate(-7.48deg);
+    font-family: Oliver;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 12px;
+    text-align: justify;
+    letter-spacing: -0.48px;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .website-gallery .ellipse {
+    position: absolute;
+    width: 14px;
+    height: 14px;
+    top: 19px;
+    left: 0;
+    border-radius: 7px;
+    border: 1.5px solid;
+    border-color: #ffffff;
+  }
+  
+  .website-gallery .group-3 {
+    position: absolute;
+    width: 1133px;
+    height: 38px;
+    top: 0;
+    left: 170px;
+  }
+  
+  .website-gallery .overlap-5 {
+    position: absolute;
+    width: 44px;
+    height: 44px;
+    top: 1px;
+    left: 792px;
+  }
+  
+  .website-gallery .group-4 {
+    position: absolute;
+    width: 44px;
+    height: 44px;
+    top: 0;
+    left: 0;
+  }
+  
+  .website-gallery .social {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    top: 6px;
+    left: 11px;
+  }
+  
+  .website-gallery .group-5 {
+    position: absolute;
+    width: 44px;
+    height: 44px;
+    top: 1px;
+    left: 852px;
+  }
+  
+  .website-gallery .group-6 {
+    position: absolute;
+    width: 44px;
+    height: 45px;
+    top: 1px;
+    left: 1033px;
+  }
+  
+  .website-gallery .group-7 {
+    position: absolute;
+    width: 44px;
+    height: 44px;
+    top: 1px;
+    left: 973px;
+  }
+  
+  .website-gallery .social-2 {
+    position: absolute;
+    width: 11px;
+    height: 12px;
+    top: 1px;
+    left: 0;
+  }
+  
+  .website-gallery .group-8 {
+    position: absolute;
+    width: 37px;
+    height: 37px;
+    top: 0;
+    left: 916px;
+  }
+  
+  .website-gallery .overlap-group-3 {
+    position: relative;
+    width: 45px;
+    height: 45px;
+    left: -4px;
+    background-image: url(Images/Gojek2.png);
+    background-size: 100% 100%;
+  }
+  
+  .website-gallery .group-wrapper {
+    position: relative;
+    width: 25px;
+    height: 25px;
+    top: 6px;
+    left: 10px;
+    border-radius: 20px;
+    overflow: hidden;
+  }
+
+  
+  .website-gallery .group-9 {
+    position: absolute;
+    width: 26px;
+    height: 26 px;
+    top: 0;
+    left: -0.53px;
+  }
+  
+  .website-gallery .group-10 {
+    position: absolute;
+    width: 44px;
+    height: 44px;
+    top: 1px;
+    left: 1093px;
+  }
+  
+  .website-gallery .customer-complaints {
+    width: 576px;
+    left: 798px;
+    position: absolute;
+    top: 52px;
+    font-family:Oliver;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 24px;
+    text-align: justify;
+    letter-spacing: -0.96px;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .website-gallery .directorate-general {
+    position: absolute;
+    width: 576px;
+    top: 101px;
+    left: 798px;
+    font-family: Oliver;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 16px;
+    text-align: justify;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .website-gallery .text-wrapper-6 {
+    font-family: Oliver;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 16px;
+    letter-spacing: 0;
+  }
+  
+  .website-gallery .text-wrapper-7 {
+    text-decoration: underline;
+  }
+  
+  .website-gallery .overlap-6 {
+    position: absolute;
+    width: 1440px;
+    height: 130px;
+    top: 0;
+    left: 0;
+  }
+  
+  .website-gallery .rectangle-wrapper {
+    position: absolute;
+    width: 1440px;
+    height: 130px;
+    top: 0;
+    left: 10px;
+    background-color: #ff632e;
+    overflow: hidden;
+  }
+  
+  .website-gallery .rectangle-4 {
+    height: 848px;
+    background-color: #ff632e;
+  }
+  
+  .website-gallery .muyen-logo-2 {
+    position: absolute;
+    width: 106px;
+    height: 72px;
+    top: 29px;
+    left: 41px;
+  }
+  
+  .website-gallery .download-app {
+    position: absolute;
+    width: 173px;
+    height: 32px;
+    top: 53px;
+    left: 1206px;
+  }
+  
+  .website-gallery .text-wrapper-8 {
+    position: absolute;
+    top: -1px;
+    left: -19px;
+    font-family: Oliver;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 26px;
+    letter-spacing: 0;
+    line-height: normal;
+    text-transform: uppercase;
+    transition: all 0.3s ease;
+  }
+
+ /* Hover state */
+ .home:hover .text-wrapper-8 {
+    color: black;
+    font-weight: 700;
+    text-shadow:
+      -1px -1px 0 white,
+       1px -1px 0 white,
+      -1px  1px 0 white,
+       1px  1px 0 white;
+  }
+
+  .contact-us:hover .text-wrapper-8 {
+    color: black;
+    font-weight: 700;
+    text-shadow:
+      -1px -1px 0 white,
+       1px -1px 0 white,
+      -1px  1px 0 white,
+       1px  1px 0 white;
+  }
+
+  .shop:hover .text-wrapper-8 {
+    color: black;
+    font-weight: 700;
+    text-shadow:
+      -1px -1px 0 white,
+       1px -1px 0 white,
+      -1px  1px 0 white,
+       1px  1px 0 white;
+  }
+  
+  .gallery:hover .text-wrapper-8 {
+    color: black;
+    font-weight: 700;
+    text-shadow:
+      -1px -1px 0 white,
+       1px -1px 0 white,
+      -1px  1px 0 white,
+       1px  1px 0 white;
+  }
+
+  .download-app:hover .text-wrapper-8 {
+    color: black;
+    font-weight: 700;
+    text-shadow:
+      -1px -1px 0 white,
+       1px -1px 0 white,
+      -1px  1px 0 white,
+       1px  1px 0 white;
+  }
+
+  
+  .website-gallery .gallery {
+    position: absolute;
+    width: 112px;
+    height: 37px;
+    top: 51px;
+    left: 1036px;
+  }
+  
+  .website-gallery .shop {
+    position: absolute;
+    width: 62px;
+    height: 37px;
+    top: 51px;
+    left: 680px;
+  }
+  
+  .website-gallery .contact-us {
+    position: absolute;
+    width: 165px;
+    height: 37px;
+    top: 51px;
+    left: 819px;
+  }
+  
+  .website-gallery .home {
+    position: absolute;
+    width: 62px;
+    height: 32px;
+    top: 53px;
+    left: 541px;
+  }
+  
+  .website-gallery .group-11 {
+    position: absolute;
+    width: 38px;
+    height: 38px;
+    top: 175px;
+    left: 41px;
+  }
+  
+  .website-gallery .arrow-wrapper {
+    position: relative;
+    height: 38px;
+    background-color: #ff632e;
+    border-radius: 19px;
+  }
+  
+  .website-gallery .arrow {
+    position: absolute;
+    width: 8px;
+    height: 15px;
+    top: 12px;
+    left: 12px;
+  }
+  
+  .website-gallery .text-wrapper-9 {
+    position: absolute;
+    top: 181px;
+    left: 94px;
+    font-family: Oliver;
+    font-weight: 400;
+    color: #838383;
+    font-size: 26px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .website-gallery .image {
+    position: fixed;
+    width: 62px;
+    height: 62px;
+    top: 733px;
+    left: calc((100vw - 1440px) / 2 + 1362px);
+    object-fit: cover;
+    z-index: 10;
+  }
