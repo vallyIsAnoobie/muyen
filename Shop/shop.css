@@ -1,0 +1,2559 @@
+@font-face {
+    font-family: LemonTuesday;
+    src: url('LemonTuesday.otf');
+  }
+  
+  @font-face {
+    font-family: StAndrew;
+    src: url('StAndrew.ttf');
+  }
+  
+  @font-face {
+    font-family: Karla;
+    src: url('Karla.ttf');
+  }
+  
+  @font-face {
+    font-family: Oliver;
+    src: url('Oliver.ttf');
+  }
+  
+  @font-face {
+    font-family: Parslay;
+    src: url('Parslay.otf');
+  }
+
+  @font-face {
+    font-family: FingerPaint;
+    src: url('FingerPaint-Regular.ttf');
+  }
+
+  @font-face {
+    font-family: GabiSans;
+    src: url('gabi_sans_irregular.ttf');
+  }
+  
+  .website-shop {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: center;
+    justify-content: center;   
+    align-items: center;       
+    width: 100%;
+  }
+  
+  
+  .website-shop .div {
+    background-color: #ffffff;
+    overflow: hidden;
+    width: 1440px;
+    height: 2330px;
+    position: relative;
+  }
+  
+  .website-shop .overlap {
+    position: absolute;
+    width: 1440px;
+    height: 2187px;
+    top: 143px;
+    left: 0;
+  }
+  
+  .website-shop .overlap-group {
+    position: absolute;
+    width: 1440px;
+    height: 1517px;
+    top: 0;
+    left: 0;
+  }
+  
+  .website-shop .UXRD-FP-presentation {
+    position: absolute;
+    width: 371px;
+    height: 563px;
+    top: 0;
+    left: 0;
+  }
+  
+  .website-shop .img {
+    position: absolute;
+    width: 191px;
+    height: 445px;
+    top: 705px;
+    left: 0;
+  }
+  
+  .website-shop .UXRD-FP-presentation-2 {
+    position: absolute;
+    width: 298px;
+    height: 410px;
+    top: 583px;
+    left: 1142px;
+  }
+  
+  .website-shop .group {
+    position: absolute;
+    width: 383px;
+    height: 506px;
+    top: 241px;
+    left: 897px;
+    transform: rotate(13.65deg);
+  }
+  
+  .website-shop .overlap-2 {
+    position: relative;
+    width: 381px;
+    height: 506px;
+  }
+  
+  .website-shop .paper {
+    position: absolute;
+    width: 379px;
+    height: 505px;
+    top: 1px;
+    left: 1px;
+    transform: rotate(0.25deg);
+  }
+  
+  .website-shop .overlap-group-2 {
+    position: relative;
+    width: 703px;
+    height: 741px;
+    top: -119px;
+    left: -161px;
+  }
+  
+  .website-shop .shadow {
+    position: absolute;
+    width: 139px;
+    height: 492px;
+    top: 167px;
+    left: 106px;
+    transform: rotate(-27.54deg);
+    mix-blend-mode: multiply;
+    object-fit: cover;
+  }
+  
+  .website-shop .shadow-2 {
+    position: absolute;
+    width: 357px;
+    height: 97px;
+    top: 562px;
+    left: 231px;
+    transform: rotate(-27.54deg);
+  }
+  
+  .website-shop .background {
+    position: absolute;
+    width: 484px;
+    height: 580px;
+    top: 81px;
+    left: 111px;
+    transform: rotate(-27.54deg);
+  }
+  
+  .website-shop .mask-group {
+    position: absolute;
+    width: 485px;
+    height: 583px;
+    top: 79px;
+    left: 110px;
+    transform: rotate(-27.54deg);
+  }
+  
+  .website-shop .frame {
+    width: 325px;
+    height: 324px;
+    top: 148px;
+    left: 32px;
+    border-radius: 20px;
+    border: 3px solid;
+    border-color: #ffffff;
+    transform: rotate(0.61deg);
+    position: absolute;
+    overflow: hidden;
+  }
+  
+  .website-shop .overlap-3 {
+    position: relative;
+    width: 614px;
+    height: 498px;
+    top: -105px;
+    left: -104px;
+  }
+  
+  .website-shop .rectangle {
+    position: absolute;
+    width: 318px;
+    height: 220px;
+    top: 105px;
+    left: 104px;
+    background-color: #f2ede9;
+  }
+  
+  .website-shop .screenshot {
+    position: absolute;
+    width: 395px;
+    height: 279px;
+    top: 76px;
+    left: 42px;
+    transform: rotate(-27.90deg);
+    object-fit: cover;
+  }
+  
+  .website-shop .overlap-group-wrapper {
+    position: absolute;
+    width: 543px;
+    height: 327px;
+    top: 171px;
+    left: 71px;
+  }
+  
+  .website-shop .overlap-group-3 {
+    position: relative;
+    width: 395px;
+    height: 267px;
+    top: 9px;
+    left: 17px;
+  }
+  
+  .website-shop .image-removebg {
+    position: absolute;
+    width: 165px;
+    height: 162px;
+    top: 0;
+    left: 0;
+  }
+  
+  .website-shop .image-removebg-2 {
+    position: absolute;
+    width: 190px;
+    height: 165px;
+    top: 44px;
+    left: 205px;
+  }
+  
+  .website-shop .image-removebg-3 {
+    position: absolute;
+    width: 147px;
+    height: 151px;
+    top: 5px;
+    left: 121px;
+  }
+  
+  .website-shop .image-removebg-4 {
+    position: absolute;
+    width: 145px;
+    height: 266px;
+    top: 1px;
+    left: 250px;
+    object-fit: cover;
+  }
+  
+  .website-shop .image-removebg-5 {
+    position: absolute;
+    width: 220px;
+    height: 221px;
+    top: 40px;
+    left: 65px;
+    object-fit: cover;
+  }
+  
+  .website-shop .image-removebg-6 {
+    position: absolute;
+    width: 204px;
+    height: 185px;
+    top: 83px;
+    left: 176px;
+    object-fit: cover;
+  }
+  
+  .website-shop .image-removebg-7 {
+    position: absolute;
+    width: 166px;
+    height: 246px;
+    top: 21px;
+    left: 0;
+    object-fit: cover;
+  }
+  
+  .website-shop .MENU-CATALOG {
+    position: absolute;
+    width: 292px;
+    top: 36px;
+    left: 37px;
+    transform: rotate(0.57deg);
+    font-family: "Holidays Homework-Regular", Helvetica;
+    font-weight: 400;
+    color: #ff632e;
+    font-size: 45px;
+    letter-spacing: -5.85px;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .website-shop .group-wrapper {
+    position: absolute;
+    width: 38px;
+    height: 38px;
+    top: 32px;
+    left: 41px;
+  }
+  
+  .website-shop .arrow-wrapper {
+    position: relative;
+    height: 38px;
+    background-color: #ff632e;
+    border-radius: 19px;
+  }
+  
+  .website-shop .arrow {
+    position: absolute;
+    width: 8px;
+    height: 15px;
+    top: 12px;
+    left: 12px;
+  }
+  
+  .website-shop .text-wrapper {
+    position: absolute;
+    top: 38px;
+    left: 94px;
+    font-family: Oliver;
+    font-weight: 400;
+    color: #838383;
+    font-size: 26px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .website-shop .overlap-wrapper {
+    position: absolute;
+    width: 492px;
+    height: 547px;
+    top: 125px;
+    left: 525px;
+    transform: rotate(20.37deg);
+  }
+  
+  .website-shop .overlap-4 {
+    position: relative;
+    width: 838px;
+    height: 857px;
+    top: -158px;
+    left: -174px;
+  }
+  
+  .website-shop .paper-wrapper {
+    position: absolute;
+    width: 347px;
+    height: 461px;
+    top: 202px;
+    left: 245px;
+    transform: rotate(-19.29deg);
+  }
+  
+  .website-shop .div-wrapper {
+    position: relative;
+    width: 345px;
+    height: 459px;
+    top: 1px;
+    left: 1px;
+    transform: rotate(0.25deg);
+  }
+  
+  .website-shop .overlap-group-4 {
+    position: relative;
+    width: 365px;
+    height: 481px;
+    top: -11px;
+    left: -10px;
+  }
+  
+  .website-shop .shadow-3 {
+    position: absolute;
+    width: 17px;
+    height: 458px;
+    top: 14px;
+    left: 10px;
+    transform: rotate(-2.40deg);
+    mix-blend-mode: multiply;
+    object-fit: cover;
+  }
+  
+  .website-shop .shadow-4 {
+    position: absolute;
+    width: 337px;
+    height: 18px;
+    top: 456px;
+    left: 24px;
+    transform: rotate(-2.40deg);
+  }
+  
+  .website-shop .background-2 {
+    position: absolute;
+    width: 341px;
+    height: 467px;
+    top: 7px;
+    left: 15px;
+    transform: rotate(-2.40deg);
+  }
+  
+  .website-shop .mask-group-2 {
+    position: absolute;
+    width: 1313px;
+    height: 869px;
+    top: 110px;
+    left: -310px;
+    transform: rotate(-20.37deg);
+  }
+  
+  .website-shop .muyencoffee {
+    position: absolute;
+    width: 69px;
+    top: 195px;
+    left: 423px;
+    transform: rotate(-19.57deg);
+    font-family: Karla;
+    font-weight: 400;
+    color: #000000;
+    font-size: 14px;
+    letter-spacing: -1.82px;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .website-shop .span {
+    font-weight: 700;
+    letter-spacing: -0.25px;
+  }
+  
+  .website-shop .text-wrapper-2 {
+    font-family:  Karla;
+    letter-spacing: -0.25px;
+  }
+  
+  .website-shop .group-2 {
+    position: absolute;
+    width: 433px;
+    height: 88px;
+    top: 94px;
+    left: 776px;
+    transform: rotate(10.52deg);
+  }
+  
+  .website-shop .text-wrapper-3 {
+    position: absolute;
+    width: 23px;
+    top: 26px;
+    left: 7px;
+    transform: rotate(-17.74deg);
+    font-family: Oliver;
+    font-weight: 400;
+    color: #000000;
+    font-size: 45px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .website-shop .text-wrapper-4 {
+    position: absolute;
+    width: 21px;
+    top: 18px;
+    left: 33px;
+    transform: rotate(-14.90deg);
+    font-family: Oliver;
+    font-weight: 400;
+    color: #000000;
+    font-size: 45px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .website-shop .text-wrapper-5 {
+    position: absolute;
+    width: 32px;
+    top: 11px;
+    left: 58px;
+    transform: rotate(-11.53deg);
+    font-family: Oliver;
+    font-weight: 400;
+    color: #000000;
+    font-size: 45px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .website-shop .overlap-5 {
+    position: absolute;
+    width: 101px;
+    height: 74px;
+    top: 14px;
+    left: 297px;
+  }
+  
+  .website-shop .overlap-6 {
+    position: absolute;
+    width: 74px;
+    height: 66px;
+    top: 7px;
+    left: 26px;
+  }
+  
+  .website-shop .overlap-7 {
+    position: absolute;
+    width: 51px;
+    height: 57px;
+    top: 9px;
+    left: 23px;
+  }
+  
+  .website-shop .text-wrapper-6 {
+    position: absolute;
+    width: 32px;
+    top: 5px;
+    left: 10px;
+    transform: rotate(29.97deg);
+    font-family: Oliver;
+    font-weight: 400;
+    color: #000000;
+    font-size: 45px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .website-shop .text-wrapper-7 {
+    width: 10px;
+    top: 9px;
+    left: 24px;
+    transform: rotate(19.50deg);
+    font-family: Oliver;
+    color: #000000;
+    font-size: 45px;
+    letter-spacing: 0;
+    white-space: nowrap;
+    position: absolute;
+    font-weight: 400;
+    line-height: normal;
+  }
+  
+  .website-shop .text-wrapper-8 {
+    position: absolute;
+    width: 10px;
+    top: 5px;
+    left: 24px;
+    transform: rotate(21.07deg);
+    font-family: Oliver;
+    font-weight: 400;
+    color: #000000;
+    font-size: 45px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .website-shop .text-wrapper-9 {
+    position: absolute;
+    width: 24px;
+    top: 2px;
+    left: 6px;
+    transform: rotate(17.22deg);
+    font-family: Oliver;
+    font-weight: 400;
+    color: #000000;
+    font-size: 45px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .website-shop .text-wrapper-10 {
+    width: 24px;
+    top: 2px;
+    left: 5px;
+    transform: rotate(14.19deg);
+    position: absolute;
+    font-family: Oliver;
+    font-weight: 400;
+    color: #000000;
+    font-size: 45px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .website-shop .text-wrapper-11 {
+    width: 11px;
+    top: 6px;
+    left: 95px;
+    transform: rotate(-8.70deg);
+    font-family: Oliver;
+    color: #000000;
+    font-size: 45px;
+    letter-spacing: 0;
+    white-space: nowrap;
+    position: absolute;
+    font-weight: 400;
+    line-height: normal;
+  }
+  
+  .website-shop .text-wrapper-12 {
+    top: 4px;
+    left: 111px;
+    transform: rotate(-7.04deg);
+    position: absolute;
+    width: 10px;
+    font-family: Oliver;
+    font-weight: 400;
+    color: #000000;
+    font-size: 45px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .website-shop .text-wrapper-13 {
+    position: absolute;
+    width: 18px;
+    top: 2px;
+    left: 126px;
+    transform: rotate(-5.01deg);
+    font-family: Oliver;
+    font-weight: 400;
+    color: #000000;
+    font-size: 45px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .website-shop .text-wrapper-14 {
+    position: absolute;
+    width: 11px;
+    top: 1px;
+    left: 149px;
+    transform: rotate(-2.93deg);
+    font-family: Oliver;
+    font-weight: 400;
+    color: #000000;
+    font-size: 45px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .website-shop .text-wrapper-15 {
+    position: absolute;
+    width: 20px;
+    top: 0;
+    left: 165px;
+    transform: rotate(-0.76deg);
+    font-family: Oliver;
+    font-weight: 400;
+    color: #000000;
+    font-size: 45px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .website-shop .text-wrapper-16 {
+    width: 11px;
+    top: 0;
+    left: 190px;
+    transform: rotate(1.42deg);
+    font-family: Oliver;
+    color: #000000;
+    font-size: 45px;
+    letter-spacing: 0;
+    white-space: nowrap;
+    position: absolute;
+    font-weight: 400;
+    line-height: normal;
+  }
+  
+  .website-shop .text-wrapper-17 {
+    top: 1px;
+    left: 206px;
+    transform: rotate(3.07deg);
+    position: absolute;
+    width: 10px;
+    font-family: Oliver;
+    font-weight: 400;
+    color: #000000;
+    font-size: 45px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .website-shop .text-wrapper-18 {
+    position: absolute;
+    width: 21px;
+    top: 2px;
+    left: 221px;
+    transform: rotate(5.24deg);
+    font-family: Oliver;
+    font-weight: 400;
+    color: #000000;
+    font-size: 45px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .website-shop .text-wrapper-19 {
+    width: 27px;
+    top: 6px;
+    left: 246px;
+    transform: rotate(8.32deg);
+    position: absolute;
+    font-family: Oliver;
+    font-weight: 400;
+    color: #000000;
+    font-size: 45px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .website-shop .text-wrapper-20 {
+    position: absolute;
+    width: 20px;
+    top: 11px;
+    left: 278px;
+    transform: rotate(11.35deg);
+    font-family: Oliver;
+    font-weight: 400;
+    color: #000000;
+    font-size: 45px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .website-shop .group-3 {
+    position: absolute;
+    width: 850px;
+    height: 869px;
+    top: 48px;
+    left: 20px;
+  }
+  
+  .website-shop .ellipse {
+    position: absolute;
+    width: 97px;
+    height: 95px;
+    top: 228px;
+    left: 822px;
+    background-color: #f5f5f5;
+    border-radius: 48.5px / 47.5px;
+  }
+  
+  .website-shop .ellipse-2 {
+    position: absolute;
+    width: 96px;
+    height: 95px;
+    top: 228px;
+    left: 700px;
+    background-color: #f5f5f5;
+    border-radius: 48px / 47.5px;
+  }
+  
+  .website-shop .ellipse-3 {
+    position: absolute;
+    width: 97px;
+    height: 94px;
+    top: 393px;
+    left: 822px;
+    background-color: #f5f5f5;
+    border-radius: 48.5px / 47px;
+  }
+  
+  .website-shop .ellipse-4 {
+    position: absolute;
+    width: 96px;
+    height: 94px;
+    top: 394px;
+    left: 700px;
+    background-color: #f5f5f5;
+    border-radius: 48px / 47px;
+  }
+  
+  .website-shop .image-removebg-8 {
+    position: absolute;
+    width: 91px;
+    height: 92px;
+    top: 230px;
+    left: 702px;
+    object-fit: cover;
+  }
+  
+  .website-shop .image-removebg-9 {
+    position: absolute;
+    width: 88px;
+    height: 131px;
+    top: 372px;
+    left: 704px;
+    object-fit: cover;
+  }
+  
+  .website-shop .image-removebg-10 {
+    position: absolute;
+    width: 102px;
+    height: 102px;
+    top: 223px;
+    left: 819px;
+    object-fit: cover;
+  }
+  
+  .website-shop .image-removebg-11 {
+    position: absolute;
+    width: 80px;
+    height: 121px;
+    top: 381px;
+    left: 831px;
+    object-fit: cover;
+  }
+  
+  .website-shop .text-wrapper-21 {
+    position: absolute;
+    width: 110px;
+    top: 329px;
+    left: 696px;
+    font-family: Karla;
+    font-weight: 700;
+    color: #4d4c4e;
+    font-size: 10px;
+    letter-spacing: 0.20px;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .website-shop .text-wrapper-22 {
+    width: 44px;
+    top: 343px;
+    left: 731px;
+    position: absolute;
+    font-family: "Jaldi-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 10px;
+    letter-spacing: 0.20px;
+    line-height: normal;
+  }
+  
+  .website-shop .text-wrapper-23 {
+    position: absolute;
+    width: 52px;
+    top: 326px;
+    left: 850px;
+    font-family: Karla;
+    font-weight: 700;
+    color: #4d4c4e;
+    font-size: 10px;
+    letter-spacing: 0.20px;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .website-shop .text-wrapper-24 {
+    width: 43px;
+    top: 340px;
+    left: 855px;
+    position: absolute;
+    font-family: "Jaldi-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 10px;
+    letter-spacing: 0.20px;
+    line-height: normal;
+  }
+  
+  .website-shop .pesto-rice-with {
+    position: absolute;
+    width: 81px;
+    top: 493px;
+    left: 709px;
+    font-family:  Karla;
+    font-weight: 700;
+    color: #4d4c4e;
+    font-size: 10px;
+    letter-spacing: 0.20px;
+    line-height: normal;
+  }
+  
+  .website-shop .text-wrapper-25 {
+    width: 44px;
+    top: 516px;
+    left: 726px;
+    position: absolute;
+    font-family: "Jaldi-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 10px;
+    letter-spacing: 0.20px;
+    line-height: normal;
+  }
+  
+  .website-shop .text-wrapper-26 {
+    position: absolute;
+    width: 92px;
+    top: 497px;
+    left: 825px;
+    font-family: Karla;
+    font-weight: 700;
+    color: #4d4c4e;
+    font-size: 10px;
+    letter-spacing: 0.20px;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .website-shop .text-wrapper-27 {
+    width: 44px;
+    top: 510px;
+    left: 849px;
+    position: absolute;
+    font-family: "Jaldi-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 10px;
+    letter-spacing: 0.20px;
+    line-height: normal;
+  }
+  
+  .website-shop .normal {
+    position: absolute;
+    width: 275px;
+    height: 73px;
+    top: 540px;
+    left: 568px;
+  }
+  
+ 
+  
+  .website-shop .group-4 {
+    position: relative;
+    width: 41px;
+    height: 46px;
+    top: 7px;
+    left: 12px;
+  }
+  
+  .website-shop .overlap-9 {
+    position: relative;
+    height: 46px;
+  }
+  
+  .website-shop .img-2 {
+    position: absolute;
+    width: 17px;
+    height: 38px;
+    top: 8px;
+    left: 0;
+  }
+  
+  .website-shop .vector {
+    position: absolute;
+    width: 12px;
+    height: 16px;
+    top: 30px;
+    left: 5px;
+  }
+  
+  .website-shop .vector-2 {
+    position: absolute;
+    width: 24px;
+    height: 41px;
+    top: 5px;
+    left: 17px;
+  }
+  
+  .website-shop .vector-3 {
+    position: absolute;
+    width: 40px;
+    height: 14px;
+    top: 0;
+    left: 0;
+  }
+  
+  .website-shop .group-5 {
+    position: absolute;
+    width: 21px;
+    height: 14px;
+    top: 18px;
+    left: 18px;
+  }
+  
+  .website-shop .group-6 {
+    width: 25px;
+    height: 14px;
+  }
+  
+  .website-shop .overlap-group-5 {
+    position: relative;
+    width: 23px;
+    height: 14px;
+    left: -1px;
+  }
+  
+  .website-shop .p {
+    position: absolute;
+    width: 23px;
+    top: 5px;
+    left: 0;
+    transform: rotate(-24.67deg);
+    font-family: Karla;
+    font-weight: 400;
+    color: #ff632e;
+    font-size: 6px;
+    letter-spacing: -0.78px;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .website-shop .text-wrapper-28 {
+    font-weight: 700;
+    letter-spacing: -0.05px;
+  }
+  
+  .website-shop .text-wrapper-29 {
+    font-family: Karla;
+    letter-spacing: -0.05px;
+  }
+  
+  .website-shop .text-wrapper-30 {
+    position: absolute;
+    width: 11px;
+    top: 7px;
+    left: 9px;
+    transform: rotate(-24.67deg);
+    font-family: Karla;
+    font-weight: 400;
+    color: #ff632e;
+    font-size: 3px;
+    letter-spacing: -0.39px;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .website-shop .group-7 {
+    position: absolute;
+    width: 504px;
+    height: 175px;
+    top: 774px;
+    left: 500px;
+  }
+  
+  .website-shop .overlap-10 {
+    position: relative;
+    width: 498px;
+    height: 175px;
+  }
+  
+  .website-shop .text-wrapper-31 {
+    top: 0;
+    left: 0;
+    font-family: Karla;
+    color: #000000;
+    font-size: 70px;
+    letter-spacing: -9.10px;
+    white-space: nowrap;
+    position: absolute;
+    font-weight: 400;
+    line-height: normal;
+  }
+  
+  .website-shop .text-wrapper-32 {
+    top: 41px;
+    left: 87px;
+    font-family: Karla;
+    color: #ff632e;
+    font-size: 70px;
+    letter-spacing: -9.10px;
+    white-space: nowrap;
+    position: absolute;
+    font-weight: 400;
+    line-height: normal;
+  }
+  
+  .website-shop .text-wrapper-33 {
+    top: 63px;
+    left: 182px;
+    font-family: LemonTuesday;
+    color: #57d1c9;
+    font-size: 75px;
+    letter-spacing: -3.75px;
+    position: absolute;
+    font-weight: 400;
+    line-height: normal;
+  }
+  
+  .website-shop .component {
+    position: absolute;
+    width: 339px;
+    height: 505px;
+    top: 986px;
+    left: 1060px;
+  }
+  
+  .website-shop .overlap-11 {
+    position: relative;
+    height: 505px;
+  }
+  
+  .website-shop .group-8 {
+    position: absolute;
+    width: 308px;
+    height: 470px;
+    top: 17px;
+    left: 18px;
+    transform: rotate(180deg);
+  }
+  
+  .website-shop .overlap-group-6 {
+    position: relative;
+    width: 304px;
+    height: 470px;
+    border-radius: 30px;
+  }
+  
+  .website-shop .mask-group-wrapper {
+    position: absolute;
+    width: 304px;
+    height: 470px;
+    top: 0;
+    left: 0;
+    background-color: #ffffff;
+    border-radius: 30px;
+    transform: rotate(-180deg);
+    box-shadow: 0px 4px 4px #00000040;
+  }
+  
+  .website-shop .mask-group-3 {
+    position: absolute;
+    width: 312px;
+    height: 478px;
+    top: 0;
+    left: -4px;
+  }
+  
+  .website-shop .tasting-dark-cocoa {
+    position: absolute;
+    width: 271px;
+    top: 42px;
+    left: 16px;
+    transform: rotate(-180deg);
+    font-family: StAndrew;
+    font-weight: 400;
+    color: #000000;
+    font-size: 25px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .website-shop .element-arabica {
+    position: absolute;
+    width: 207px;
+    top: 229px;
+    left: 56px;
+    transform: rotate(-180deg);
+    font-family: "the bubble letters-Regular", Helvetica;
+    font-weight: 400;
+    color: #ff632e;
+    font-size: 25px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 30px;
+  }
+
+  .website-shop .bhavana-container {
+    position: relative;
+    width: 339px;
+    height: 505px;
+  }
+  
+  .website-shop .Bhavana {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+  }
+
+
+  .website-shop .Bhavana-hover {
+    position: absolute;
+    width: 111%;
+    height: 100%;
+    top: 0;
+    left: 0;
+  }
+  
+  .website-shop .Bhavana-hover {
+    z-index: 2;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+    pointer-events: none;
+  }
+  
+  .website-shop .bhavana-container:hover .Bhavana-hover {
+    opacity: 1;
+  }
+  
+  
+  .website-shop .component-2 {
+    position: absolute;
+    width: 304px;
+    height: 504px;
+    top: 1013px;
+    left: 60px;
+  
+  }
+  
+  .website-shop .group-9 {
+    height: 504px;
+  }
+  
+  .website-shop .overlap-group-7 {
+    position: relative;
+    width: 312px;
+    height: 504px;
+    left: -4px;
+  }
+  
+  .website-shop .rectangle-2 {
+    position: absolute; 
+    width: 304px;
+    height: 470px;
+    top: 0;
+    left: 4px;
+    background-color: #ffffff;
+    border-radius: 30px;
+  }
+  
+  .website-shop .samarsya-container {
+    position: relative;
+    width: 312px;
+    height: 540px;
+  }
+  
+  .website-shop .Samarsya {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+  }
+
+  .website-shop .Samarsya-hover {
+    position: absolute;
+    width: 100%;
+    height: 88%;
+    top: 0;
+    left: 0;
+  }
+  
+  .website-shop .Samarsya-hover {
+    z-index: 2;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+    pointer-events: none;
+  }
+  
+  .website-shop .samarsya-container:hover .Samarsya-hover {
+    opacity: 1;
+  }
+  
+
+  .website-shop .robusta-container {
+    position: relative;
+    width: 312px;
+    height: 495px;
+  }
+  
+  .website-shop .Robusta {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+  }
+  
+  .website-shop .Robusta-hover {
+    position: absolute;
+    width: 105%;
+    height: 95%;
+    top: 0;
+    left: 0;
+  }
+
+  .website-shop .Robusta-hover {
+    z-index: 2;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+    pointer-events: none;
+  }
+  
+  .website-shop .robusta-container:hover .Robusta-hover {
+    opacity: 1;
+  }
+  
+  
+  .website-shop .borga-container {
+    position: relative;
+    width: 312px;
+    height: 495px;
+  }
+  
+  .website-shop .Borga-hover {
+    position: absolute;
+    width: 109%;
+    height: 97%;
+    top: 0;
+    left: 0;
+  }
+  
+  .website-shop .Borga {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+  }
+
+  .website-shop .Borga-hover {
+    z-index: 2;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+    pointer-events: none;
+  }
+  
+  .website-shop .borga-container:hover .Borga-hover {
+    opacity: 1;
+  }
+  
+  
+
+  .website-shop .group-10 {
+    position: absolute;
+    width: 247px;
+    height: 446px;
+    top: 58px;
+    left: 26px;
+  }
+  
+  .website-shop .overlap-12 {
+    position: absolute;
+    width: 1440px;
+    height: 625px;
+    top: 1562px;
+    left: 0;
+  }
+  
+  .website-shop .UXRD-FP-presentation-3 {
+    position: absolute;
+    width: 298px;
+    height: 391px;
+    top: 0;
+    left: 1142px;
+  }
+  
+  .website-shop .frame-2 {
+    width: 1440px;
+    height: 341px;
+    top: 284px;
+    left: 0;
+    background-color: #ff632e;
+    position: absolute;
+    overflow: hidden;
+  }
+  
+  .website-shop .overlap-13 {
+    position: relative;
+    height: 848px;
+    background-color: #ff632e;
+  }
+  
+  .website-shop .muyen-logo {
+    position: absolute;
+    width: 106px;
+    height: 72px;
+    top: 54px;
+    left: 71px;
+  }
+  
+  .website-shop .group-11 {
+    position: absolute;
+    width: 22px;
+    height: 22px;
+    top: 104px;
+    left: 230px;
+  }
+  
+  .website-shop .overlap-group-8 {
+    position: relative;
+    width: 18px;
+    height: 21px;
+    top: 2px;
+    left: 2px;
+  }
+  
+  .website-shop .rectangle-3 {
+    position: absolute;
+    width: 3px;
+    height: 3px;
+    top: 7px;
+    left: 7px;
+    border: 3px solid;
+    border-color: #ffffff;
+  }
+  
+  .website-shop .vector-4 {
+    position: absolute;
+    width: 18px;
+    height: 21px;
+    top: 17px;
+    left: 0;
+  }
+  
+  .website-shop .text-wrapper-34 {
+    width: 400px;
+    left: 230px;
+    position: absolute;
+    top: 53px;
+    font-family: Oliver;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 24px;
+    text-align: justify;
+    letter-spacing: -0.96px;
+    line-height: normal;
+  }
+  
+  .website-shop .ruko-jl-aristoteles {
+    position: absolute;
+    width: 440px;
+    top: 105px;
+    left: 263px;
+    font-family: Oliver;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 16px;
+    text-align: justify;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .website-shop .vector-5 {
+    position: absolute;
+    width: 18px;
+    height: 18px;
+    top: 191px;
+    left: 233px;
+  }
+  
+  .website-shop .text-wrapper-35 {
+    position: absolute;
+    width: 150px;
+    top: 192px;
+    left: 245px;
+    font-family: Oliver;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 16px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .website-shop .overlap-14 {
+    position: absolute;
+    width: 1303px;
+    height: 38px;
+    top: 266px;
+    left: 71px;
+  }
+  
+  .website-shop .group-12 {
+    position: absolute;
+    width: 488px;
+    height: 18px;
+    top: 10px;
+    left: 0;
+  }
+  
+  .website-shop .overlap-15 {
+    position: relative;
+    width: 494px;
+    height: 18px;
+    left: -2px;
+  }
+  
+  .website-shop .group-13 {
+    position: absolute;
+    width: 491px;
+    height: 18px;
+    top: 0;
+    left: 3px;
+  }
+  
+  .website-shop .text-wrapper-36 {
+    position: absolute;
+    width: 471px;
+    top: 0;
+    left: 16px;
+    font-family: Oliver;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 16px;
+    text-align: justify;
+    letter-spacing: -0.64px;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .website-shop .text-wrapper-37 {
+    position: absolute;
+    width: 10px;
+    top: 20px;
+    left: -3px;
+    transform: rotate(-7.61deg);
+    font-family: Oliver;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 12px;
+    text-align: justify;
+    letter-spacing: -0.48px;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .website-shop .ellipse-5 {
+    position: absolute;
+    width: 14px;
+    height: 14px;
+    top: 20px;
+    left: -4px;
+    border-radius: 7px;
+    border: 1.5px solid;
+    border-color: #ffffff;
+  }
+  
+  .website-shop .group-14 {
+    position: absolute;
+    width: 1133px;
+    height: 38px;
+    top: 0;
+    left: 170px;
+  }
+  
+  .website-shop .overlap-16 {
+    position: absolute;
+    width: 44px;
+    height: 44px;
+    top: 1px;
+    left: 792px;
+  }
+  
+  .website-shop .group-15 {
+    position: absolute;
+    width: 44px;
+    height: 44px;
+    top: 0;
+    left: 0;
+  }
+  
+  .website-shop .social {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    top: 6px;
+    left: 11px;
+  }
+  
+  .website-shop .group-16 {
+    position: absolute;
+    width: 44px;
+    height: 44px;
+    top: 1px;
+    left: 852px;
+  }
+  
+  .website-shop .group-17 {
+    position: absolute;
+    width: 44px;
+    height: 45px;
+    top: 1px;
+    left: 1033px;
+  }
+  
+  .website-shop .group-18 {
+    position: absolute;
+    width: 44px;
+    height: 44px;
+    top: 1px;
+    left: 973px;
+  }
+  
+  .website-shop .social-2 {
+    position: absolute;
+    width: 11px;
+    height: 12px;
+    top: 1px;
+    left: 0;
+  }
+  
+  .website-shop .group-19 {
+    position: absolute;
+    width: 37px;
+    height: 37px;
+    top: 0;
+    left: 916px;
+  }
+  
+  .website-shop .overlap-group-9 {
+    position: relative;
+    width: 45px;
+    height: 45px;
+    left: -4px;
+    background-image: url(Images/Gojek2.png);
+    background-size: 100% 100%;
+  }
+  
+  .website-shop .group-wrapper-2 {
+    position: relative;
+    width: 25px;
+    height: 25px;
+    top: 6px;
+    left: 10px;
+    border-radius: 20px;
+    overflow: hidden;
+  }
+  
+
+  
+  .website-shop .group-20 {
+    position: absolute;
+    width: 25px;
+    height: 25px;
+    top: 1.1px;
+    left: 0.3px;
+  }
+  
+  .website-shop .group-21 {
+    position: absolute;
+    width: 44px;
+    height: 44px;
+    top: 1px;
+    left: 1093px;
+  }
+  
+  .website-shop .customer-complaints {
+    width: 576px;
+    left: 798px;
+    white-space: nowrap;
+    position: absolute;
+    top: 53px;
+    font-family: Oliver;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 24px;
+    text-align: justify;
+    letter-spacing: -0.96px;
+    line-height: normal;
+  }
+  
+  .website-shop .directorate-general {
+    position: absolute;
+    width: 576px;
+    top: 103px;
+    left: 798px;
+    font-family: Oliver;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 16px;
+    text-align: justify;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .website-shop .text-wrapper-38 {
+    font-family: Oliver;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 16px;
+    letter-spacing: 0;
+  }
+  
+  .website-shop .text-wrapper-39 {
+    text-decoration: underline;
+  }
+  
+  .website-shop .overlap-17 {
+    position: absolute;
+    width: 610px;
+    height: 799px;
+    top: 1006px;
+    left: 398px;
+    
+  }
+  
+  .website-shop .checkout-now-and {
+    position: absolute;
+    top: 520px;
+    left: 200px;
+    font-family: Oliver;
+    font-weight: 400;
+    color: #9f9f9f;
+    font-size: 30px;
+    text-align: center;
+    letter-spacing: -2.70px;
+    line-height: normal;
+  }
+  
+  .website-shop .group-22 {
+    position: absolute;
+    width: 74px;
+    height: 100px;
+    top: 668px;
+    left: 290px;
+  }
+  
+  .website-shop .group-23 {
+    position: absolute;
+    width: 89px;
+    height: 104px;
+    top: 665px;
+    left: 420px;
+  }
+  
+  .website-shop .group-24 {
+    position: absolute;
+    width: 248px;
+    height: 482px;
+    top: 317px;
+    left: 52px;
+  }
+  
+  .website-shop .overlap-18 {
+    position: relative;
+    width: 252px;
+    height: 482px;
+    left: -4px;
+  }
+  
+  .website-shop .ellipse-6 {
+    position: absolute;
+    width: 133px;
+    height: 28px;
+    top: 454px;
+    left: 4px;
+    background-color: #d9d9d9;
+    border-radius: 66.5px / 14px;
+    box-shadow: 0px 4px 4px #00000040;
+  }
+  
+  .website-shop .rectangle-4 {
+    position: absolute;
+    width: 15px;
+    height: 264px;
+    top: 206px;
+    left: 59px;
+    background-color: #f1f1f1;
+    border: 2px solid;
+    border-color: #000000;
+    box-shadow: 0px 4px 4px #00000040;
+  }
+  
+  .website-shop .group-25 {
+    position: absolute;
+    width: 252px;
+    height: 412px;
+    top: 0;
+    left: 0;
+  }
+  
+  .website-shop .vector-6 {
+    position: absolute;
+    width: 15px;
+    height: 9px;
+    top: 317px;
+    left: 58px;
+  }
+  
+  .website-shop .rectangle-5 {
+    position: absolute;
+    width: 7px;
+    height: 5px;
+    top: 192px;
+    left: 63px;
+    background-color: #f1f1f1;
+    border-radius: 20px 20px 3px 3px;
+    border: 2px solid;
+    border-color: #000000;
+  }
+  
+  .website-shop .rectangle-6 {
+    position: absolute;
+    width: 15px;
+    height: 11px;
+    top: 195px;
+    left: 59px;
+    background-color: #f1f1f1;
+    border-radius: 75px 75px 0px 0px;
+    border-top-width: 2px;
+    border-top-style: solid;
+    border-right-width: 2px;
+    border-right-style: solid;
+    border-left-width: 2px;
+    border-left-style: solid;
+    border-color: #000000;
+  }
+  
+  .website-shop .vector-7 {
+    position: absolute;
+    width: 26px;
+    height: 4px;
+    top: 200px;
+    left: 53px;
+  }
+  
+  .website-shop .ellipse-7 {
+    position: absolute;
+    width: 116px;
+    height: 107px;
+    top: 210px;
+    left: 8px;
+    background-color: #ff642e;
+    border-radius: 58.21px / 53.6px;
+  }
+  
+  .website-shop .muyen-logo-2 {
+    position: absolute;
+    width: 59px;
+    height: 38px;
+    top: 244px;
+    left: 37px;
+  }
+  
+  .website-shop .ellipse-8 {
+    position: absolute;
+    width: 108px;
+    height: 99px;
+    top: 214px;
+    left: 12px;
+    border-radius: 53.92px / 49.61px;
+    border: 5px solid;
+    border-color: #57d1c9;
+  }
+  
+  .website-shop .ellipse-9 {
+    position: absolute;
+    width: 110px;
+    height: 17px;
+    top: 458px;
+    left: 19px;
+  }
+  
+  .website-shop .group-26 {
+    position: absolute;
+    width: 174px;
+    height: 42px;
+    top: 358px;
+    left: 15px;
+  }
+  
+  .website-shop .overlap-group-10 {
+    position: relative;
+    width: 168px;
+    height: 43px;
+    top: -1px;
+    left: -1px;
+  }
+  
+  .website-shop .text-wrapper-40 {
+    position: absolute;
+    width: 115px;
+    top: 0;
+    left: 0;
+    -webkit-text-stroke: 1px #000000;
+    font-family: "Boston Traffic-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 25px;
+    letter-spacing: -1.25px;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .website-shop .text-wrapper-41 {
+    position: absolute;
+    width: 115px;
+    top: 13px;
+    left: 53px;
+    -webkit-text-stroke: 1px #000000;
+    font-family: Karla;
+    font-weight: 200;
+    color: #000000;
+    font-size: 25px;
+    letter-spacing: -3.25px;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .website-shop .text-wrapper-42 {
+    width: 38px;
+    top: 2px;
+    left: 43px;
+    font-family: LemonTuesday;
+    color: #ff632e;
+    font-size: 30px;
+    letter-spacing: -1.50px;
+    position: absolute;
+    font-weight: 400;
+    line-height: normal;
+  }
+  
+
+  
+  .website-shop .cup-bot-shadow {
+    position: absolute;
+    width: 248px;
+    height: 482px;
+    top: 10px;
+    left: 21px;
+    background-blend-mode: soft-light;
+  }
+  
+  .website-shop .component-3 {
+    position: absolute;
+    width: 304px;
+    height: 542px;
+    top: 0;
+    left: 0;
+  }
+  
+  .website-shop .overlap-19 {
+    position: relative;
+    width: 312px;
+    height: 542px;
+    left: -4px;
+  }
+  
+  .website-shop .group-27 {
+    position: absolute;
+    width: 247px;
+    height: 447px;
+    top: 95px;
+    left: 6px;
+  }
+  
+  .website-shop .rectangle-7 {
+    position: absolute;
+    width: 287px;
+    height: 151px;
+    top: 644px;
+    left: 241px;
+    border-radius: 20px;
+    border: 3px solid;
+    border-color: #d9d9d9;
+  }
+  
+  .website-shop .component-4 {
+    position: absolute;
+    width: 304px;
+    height: 493px;
+    top: 1004px;
+    left: 736px;
+   
+  }
+  
+  .website-shop .overlap-20 {
+    position: relative;
+    width: 312px;
+    height: 493px;
+    left: -4px;
+  }
+  
+  .website-shop .group-28 {
+    position: absolute;
+    width: 247px;
+    height: 446px;
+    top: 47px;
+    left: 19px;
+  }
+  
+  .website-shop .overlap-21 {
+    position: absolute;
+    width: 1440px;
+    height: 130px;
+    top: 0;
+    left: 0;
+  }
+  
+  .website-shop .rectangle-wrapper {
+    height: 130px;
+    top: 0;
+    width: 1440px;
+    left: 0;
+    background-color: #ff632e;
+    overflow: hidden;
+  }
+  
+  .website-shop .rectangle-8 {
+    height: 848px;
+    background-color: #ff632e;
+  }
+  
+  .website-shop .muyen-logo-3 {
+    position: absolute;
+    width: 106px;
+    height: 72px;
+    top: 29px;
+    left: 41px;
+  }
+  
+  .website-shop .download-app {
+    position: absolute;
+    width: 173px;
+    height: 32px;
+    top: 53px;
+    left: 1206px;
+  }
+  
+  .website-shop .text-wrapper-43 {
+    position: absolute;
+    top: -1px;
+    left: -19px;
+    font-family: Oliver;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 26px;
+    letter-spacing: 0;
+    line-height: normal;
+    text-transform: uppercase;
+    transition: all 0.3s ease;
+  }
+  
+
+  /* Hover state */
+  .home:hover .text-wrapper-43 {
+    color: black;
+    font-weight: 700;
+    text-shadow:
+      -1px -1px 0 white,
+       1px -1px 0 white,
+      -1px  1px 0 white,
+       1px  1px 0 white;
+  }
+
+  .contact-us:hover .text-wrapper-43 {
+    color: black;
+    font-weight: 700;
+    text-shadow:
+      -1px -1px 0 white,
+       1px -1px 0 white,
+      -1px  1px 0 white,
+       1px  1px 0 white;
+  }
+
+  .shop:hover .text-wrapper-43 {
+    color: black;
+    font-weight: 700;
+    text-shadow:
+      -1px -1px 0 white,
+       1px -1px 0 white,
+      -1px  1px 0 white,
+       1px  1px 0 white;
+  }
+  
+  .gallery:hover .text-wrapper-43 {
+    color: black;
+    font-weight: 700;
+    text-shadow:
+      -1px -1px 0 white,
+       1px -1px 0 white,
+      -1px  1px 0 white,
+       1px  1px 0 white;
+  }
+
+  .download-app:hover .text-wrapper-43 {
+    color: black;
+    font-weight: 700;
+    text-shadow:
+      -1px -1px 0 white,
+       1px -1px 0 white,
+      -1px  1px 0 white,
+       1px  1px 0 white;
+  }
+
+  .website-shop .gallery {
+    position: absolute;
+    width: 112px;
+    height: 37px;
+    top: 51px;
+    left: 1036px;
+  }
+  
+  .website-shop .shop {
+    position: absolute;
+    width: 62px;
+    height: 37px;
+    top: 51px;
+    left: 680px;
+  }
+  
+  .website-shop .contact-us {
+    position: absolute;
+    width: 165px;
+    height: 37px;
+    top: 51px;
+    left: 819px;
+  }
+  
+  .website-shop .home {
+    position: absolute;
+    width: 62px;
+    height: 32px;
+    top: 53px;
+    left: 541px;
+  }
+  
+  .website-shop .group-29 {
+    position: fixed;
+    width: 71px;
+    height: 82px;
+    top: 753px;
+    left: 1291px;
+  }
+  
+  .website-shop .overlap-22 {
+    position: relative;
+    width: 73px;
+    height: 82px;
+  }
+  
+  .website-shop .group-30 {
+    position: absolute;
+    width: 52px;
+    height: 48px;
+    top: 34px;
+    left: 8px;
+    transform: rotate(180deg);
+  }
+  
+  .website-shop .overlap-23 {
+    position: relative;
+    height: 48px;
+  }
+  
+  .website-shop .group-31 {
+    position: absolute;
+    width: 52px;
+    height: 48px;
+    top: 0;
+    left: 0;
+  }
+  
+  .website-shop .group-32 {
+    height: 48px;
+  }
+  
+  .website-shop .overlap-24 {
+    position: relative;
+    width: 53px;
+    height: 48px;
+    left: -1px;
+  }
+  
+  .website-shop .group-33 {
+    position: absolute;
+    width: 37px;
+    height: 26px;
+    top: 0;
+    left: 16px;
+  }
+  
+  .website-shop .overlap-25 {
+    position: relative;
+    width: 39px;
+    height: 27px;
+    left: -1px;
+  }
+  
+  .website-shop .vector-8 {
+    position: absolute;
+    width: 39px;
+    height: 26px;
+    top: 1px;
+    left: 0;
+    transform: rotate(-180deg);
+  }
+  
+  .website-shop .ellipse-10 {
+    position: absolute;
+    width: 14px;
+    height: 8px;
+    top: 2px;
+    left: 11px;
+    transform: rotate(-180deg);
+  }
+  
+  .website-shop .group-34 {
+    position: absolute;
+    width: 8px;
+    height: 10px;
+    top: 0;
+    left: 5px;
+  }
+  
+  .website-shop .overlap-group-11 {
+    position: relative;
+    width: 9px;
+    height: 12px;
+    left: -1px;
+  }
+  
+  .website-shop .rectangle-9 {
+    position: absolute;
+    width: 5px;
+    height: 4px;
+    top: 1px;
+    left: 3px;
+    background-color: #ffffff;
+    transform: rotate(-350.62deg);
+  }
+  
+  .website-shop .rectangle-10 {
+    position: absolute;
+    width: 9px;
+    height: 12px;
+    top: 0;
+    left: 0;
+    transform: rotate(-180deg);
+  }
+  
+  .website-shop .group-35 {
+    position: absolute;
+    width: 41px;
+    height: 31px;
+    top: 17px;
+    left: 12px;
+    transform: rotate(-180deg);
+  }
+  
+  .website-shop .overlap-26 {
+    position: relative;
+    width: 40px;
+    height: 31px;
+    left: 1px;
+  }
+  
+  .website-shop .group-36 {
+    position: absolute;
+    width: 35px;
+    height: 31px;
+    top: 0;
+    left: 5px;
+    transform: rotate(180deg);
+  }
+  
+  .website-shop .group-37 {
+    height: 31px;
+  }
+  
+  .website-shop .overlap-27 {
+    position: relative;
+    width: 35px;
+    height: 31px;
+  }
+  
+  .website-shop .group-38 {
+    position: absolute;
+    width: 35px;
+    height: 31px;
+    top: 0;
+    left: 0;
+  }
+  
+  .website-shop .overlap-group-12 {
+    position: relative;
+    height: 33px;
+    top: -2px;
+  }
+  
+  .website-shop .ellipse-11 {
+    position: absolute;
+    width: 32px;
+    height: 26px;
+    top: 0;
+    left: 2px;
+    transform: rotate(-180deg);
+  }
+  
+  .website-shop .mask-group-6 {
+    position: absolute;
+    width: 28px;
+    height: 22px;
+    top: 2px;
+    left: 4px;
+    transform: rotate(-180deg);
+  }
+  
+  .website-shop .ellipse-12 {
+    position: absolute;
+    width: 2px;
+    height: 1px;
+    top: 15px;
+    left: 12px;
+    background-color: #604027;
+    border-radius: 1.12px / 0.74px;
+    border: 20px solid;
+    transform: rotate(-348.26deg);
+  }
+  
+  .website-shop .ellipse-13 {
+    position: absolute;
+    width: 2px;
+    height: 1px;
+    top: 15px;
+    left: 20px;
+    background-color: #604027;
+    border-radius: 1.12px / 0.74px;
+    border: 20px solid;
+    transform: rotate(-4.38deg);
+  }
+  
+  .website-shop .ellipse-14 {
+    position: absolute;
+    width: 3px;
+    height: 3px;
+    top: 11px;
+    left: 11px;
+    background-color: #604027;
+    border-radius: 1.29px / 1.28px;
+    border: 20px solid;
+  }
+  
+  .website-shop .ellipse-15 {
+    position: absolute;
+    width: 3px;
+    height: 3px;
+    top: 12px;
+    left: 21px;
+    background-color: #604027;
+    border-radius: 1.29px / 1.28px;
+    border: 20px solid;
+  }
+  
+  .website-shop .ellipse-16 {
+    position: absolute;
+    width: 2px;
+    height: 1px;
+    top: 11px;
+    left: 17px;
+    transform: rotate(-180deg);
+  }
+  
+  .website-shop .group-39 {
+    position: absolute;
+    width: 14px;
+    height: 13px;
+    top: 16px;
+    left: 0;
+    transform: rotate(-180deg);
+  }
+  
+  .website-shop .group-40 {
+    position: absolute;
+    width: 18px;
+    height: 18px;
+    top: 15px;
+    left: 17px;
+    transform: rotate(-180deg);
+  }
+  
+  .website-shop .overlap-28 {
+    position: relative;
+    height: 31px;
+  }
+  
+  .website-shop .img-3 {
+    position: absolute;
+    width: 28px;
+    height: 22px;
+    top: 0;
+    left: 4px;
+    transform: rotate(-180deg);
+  }
+  
+  .website-shop .vector-9 {
+    position: absolute;
+    width: 7px;
+    height: 3px;
+    top: 6px;
+    left: 14px;
+    transform: rotate(-180deg);
+  }
+  
+  .website-shop .ellipse-17 {
+    position: absolute;
+    width: 2px;
+    height: 1px;
+    top: 13px;
+    left: 12px;
+    background-color: #ffffff;
+    border-radius: 1.12px / 0.74px;
+    transform: rotate(-348.26deg);
+  }
+  
+  .website-shop .ellipse-18 {
+    position: absolute;
+    width: 2px;
+    height: 1px;
+    top: 13px;
+    left: 20px;
+    background-color: #ffffff;
+    border-radius: 1.12px / 0.74px;
+    transform: rotate(-4.38deg);
+  }
+  
+  .website-shop .ellipse-19 {
+    position: absolute;
+    width: 3px;
+    height: 3px;
+    top: 9px;
+    left: 11px;
+    background-color: #633419;
+    border-radius: 1.29px / 1.28px;
+  }
+  
+  .website-shop .ellipse-20 {
+    position: absolute;
+    width: 3px;
+    height: 3px;
+    top: 10px;
+    left: 21px;
+    background-color: #633419;
+    border-radius: 1.29px / 1.28px;
+  }
+  
+  .website-shop .ellipse-21 {
+    position: absolute;
+    width: 2px;
+    height: 1px;
+    top: 9px;
+    left: 17px;
+    transform: rotate(-180deg);
+  }
+  
+  .website-shop .group-41 {
+    position: absolute;
+    width: 14px;
+    height: 13px;
+    top: 14px;
+    left: 0;
+    transform: rotate(-180deg);
+  }
+  
+  .website-shop .group-42 {
+    position: absolute;
+    width: 18px;
+    height: 18px;
+    top: 13px;
+    left: 17px;
+    transform: rotate(-180deg);
+  }
+  
+  .website-shop .rectangle-11 {
+    position: absolute;
+    width: 5px;
+    height: 5px;
+    top: 23px;
+    left: 0;
+  }
+  
+  .website-shop .vector-10 {
+    position: absolute;
+    width: 17px;
+    height: 20px;
+    top: 3px;
+    left: 0;
+    transform: rotate(-180deg);
+  }
+  
+  .website-shop .rectangle-12 {
+    position: absolute;
+    width: 22px;
+    height: 5px;
+    top: 14px;
+    left: 18px;
+    transform: rotate(-180deg);
+  }
+  
+  .website-shop .group-43 {
+    position: absolute;
+    width: 72px;
+    height: 35px;
+    top: 1px;
+    left: 1px;
+    transform: rotate(-178.15deg);
+  }
+  
+  .website-shop .overlap-29 {
+    position: relative;
+    width: 73px;
+    height: 37px;
+    left: -1px;
+  }
+  
+  .website-shop .rectangle-13 {
+    position: absolute;
+    width: 72px;
+    height: 34px;
+    top: 1px;
+    left: 1px;
+    transform: rotate(178.15deg);
+  }
+  
+  .website-shop .what-can-i-help-you {
+    position: absolute;
+    width: 56px;
+    top: 6px;
+    left: 9px;
+    transform: rotate(176.46deg);
+    font-family: Oliver;
+    font-weight: 400;
+    color: #604027;
+    font-size: 8px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 8px;
+  }
+  
+  .website-shop .muyen-logo-4 {
+    position: absolute;
+    width: 7px;
+    height: 5px;
+    top: 66px;
+    left: 27px;
+  }
+  
+  .website-shop .image {
+    position: fixed;
+    width: 62px;
+    height: 62px;
+    top: 733px;
+    left: calc((100vw - 1440px) / 2 + 1361px);
+    object-fit: cover;
+    z-index: 10;
+  }
+  
+ 
